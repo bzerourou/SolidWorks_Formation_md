@@ -1,18 +1,18 @@
 
-![about]
+![about](about)
 
 
 
 # Contenue de la formation 
 La formation d'initiation est structurée en quatre grandes parties : 
 
-![🗂️Partie conception]
+[🗂️Partie conception](🗂️Partie conception)
 
-![🗂️Partie assemlage]
+[🗂️Partie assemlage](🗂️Partie assemlage)
 
-![🗂️Partie mise en plan]
+[🗂️Partie mise en plan]()
 
-![🗂️Partie_simulation]
+[🗂️Partie_simulation]()
 
 
 # Déroulement de la formation 
