@@ -1,5 +1,4 @@
 
-![[SolidWorks/Partie_conception/about|about]]
 
 
 # Programme du cours 
