@@ -1,0 +1,3 @@
+
+
+La troisième section de notre formation d'initiation à SolidWorks 2022, qui est une introduction à la mise en plan, on survolera seulement les fonctionnalités de base, créer un premier plan à partir d'une pièce existante, paramétrer les vues, les cotations de nos pièces.
