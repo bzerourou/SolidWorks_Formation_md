@@ -6,12 +6,8 @@ La partie englobe en gros la création d'un premier projet d'assemblage, importa
 
 # Programme du cours
 
-[🗂️Interface assemblage](Interface assemblage/🗂️interface_assemblage.md)
+[🗂️Interface assemblage](Interface_assemblage/🗂️interface_assemblage.md)
 
-
-
-[🗂️Créations des contraintes](Creation des contraintes/🗂️creation_des_contraintes.md)
+[🗂️Créations des contraintes](Creation_des_contraintes/🗂️creation_des_contraintes.md)
 
 # Historique des versions
-
-![[stage/SolidWorks/Partie_assemblage/version]]
