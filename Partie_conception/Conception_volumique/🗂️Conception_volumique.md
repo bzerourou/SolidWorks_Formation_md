@@ -124,19 +124,19 @@ Il faudra choisir l'esquisse duquel on veut enlever de la matière par extrusion
 Nous commençons par créer notre esquisse dans lequel on va le faire tourné autour un axe.
 Remarque : Cet axe doit être colinéaire avec notre profil sinon ça ne marchera pas.
 
-[enlevement_revolution_esquisse.jpg](../Attachements/)
+![](../Attachements/enlevement_revolution_esquisse.jpg)
 
 Maintenant on clique sur le fonction "Enlèvement de la matière par révolution" après avoir sélectionné l'esquisse.
 
-[outil_enlevement_revolution.jpg](../Attachements/)
+![](../Attachements/outil_enlevement_revolution.jpg)
 
 Vous aurez le résultat suivant dans le cas ou vous choisissez l'axe de révolution de celui en bas de la pièce (axe z) comme indiqué sur la figure suivante.
 
-[enlevement_revolution_axe1.jpg](../Attachements/)
+![](../Attachements/enlevement_revolution_axe1.jpg)
 
 Le profil de révolution va changé dans le cas où je vais sélectionné un autre axe comme la figure.
 
-[enlevement_revolution_axe2.jpg](../Attachements/)
+![](../Attachements/enlevement_revolution_axe2.jpg)
 
 ### 3. Enlèvement de la matière balayé
 
@@ -145,19 +145,19 @@ On va reproduire la fonction "Balayage" comme dans la première partie, dans un 
 - cercle; 
 - courbe de trajectoire.
 
-[enlevement_balaye_esquisse.jpg](../Attachements/)
+![](../Attachements/enlevement_balaye_esquisse.jpg)
 
 On clique sur le bouton de la fonction "Enlèvement de la matière balayé".
 
-[outil_balaye.jpg](../Attachements/)
+![](../Attachements/outil_balaye.jpg)
 
 Le panneau de la propriété de la fonction s'ouvre à gauche, il faudra spécifier les deux paramètres (cercle et courbe de pilotage) comme la figure suivante.
 
-[enlevement_balaye.jpg](../Attachements/)
+![](../Attachements/enlevement_balaye.jpg)
 
 Pour voir le résultat de la figure du haut il faut faire une coupe avec l'outil de coupe (entouré en rouge).
 
-[enlevement_balaye_coupe.jpg](../Attachements/)
+![](../Attachements/enlevement_balaye_coupe.jpg)
 
 Cette fonction de coupe vous demandera un plan à partir duquel elle nous générera une coupe, dans mon j'ai sélectionné le plan de face (figure ci-dessus).
 
@@ -165,15 +165,15 @@ Cette fonction de coupe vous demandera un plan à partir duquel elle nous géné
 
 Passons à cet outil, maintenant qu'on est habitué avec toutes ces fonctions d'enlèvement, il nous faut toujours au minimum deux esquisses pour faire un lissage tout comme pour celle de l'extrusion. J'ai crée deux plans parallèles à la face du haut de mon cylindre dans lequel j'ai esquissé un cercle, un rectangle et un pentagone.
 
-[enlevement_lisse_esquisse.jpg](../Attachements/)
+![](../Attachements/enlevement_lisse_esquisse.jpg)
 
 Je clique sur le bouton de la fonction "Enlèvement de la matière lissé".
 
-[outil_enlevement_lisse.jpg](../Attachements/)
+![](../Attachements/outil_enlevement_lisse.jpg)
 
 Je spécifie à la fonction mes trois esquisse comme sur la figure suivante.
 
-[enlevement_lisse.jpg](../Attachements/)
+![](../Attachements/enlevement_lisse.jpg)
 
 SolidWorks va automatiquement généré une géométrie à partir de nos trois esquisses, les trois points en couleur verts servent à piloter la forme générée.
 
@@ -185,11 +185,11 @@ La différence entre le lissage et la découpe frontière est que la dernière s
 
 On clique sur le bouton de notre fonction.
 
-[outil_decoupe_frontiere.jpg](../Attachements/)
+![](../Attachements/outil_decoupe_frontiere.jpg)
 
 On sélectionne les entités, dans mon cas j'ai commencé par orienté la vue de face en normal et j'ai fait glisser les points de chaque diamètre jusqu'à leur extrémité (les points en couleur verte).
 
-[decoupe_frontiere.jpg](../Attachements/)
+![](../Attachements/decoupe_frontiere.jpg)
 
 $$Prévu pour la version 1.1$$
 
@@ -199,33 +199,33 @@ $$Prévu pour la version 1.1$$
 
 Commençons par le congé, il faudra cliquer sur le bouton de la fonction "Congé".
 
-[outil_conge_fonction.jpg](../Attachements/)
+![](../Attachements/outil_conge_fonction.jpg)
 
 Maintenant vous pouvez sélectionner un à un, les lignes qu'on veut transformer en congé, ou vous maintenez le bouton ctrl du clavier tout en cliquant sur une ligne, une petite boite de dialogue apparait, cliquez ensuite sur le premier bouton ( sélection en boucle).
 
-[conge_fonction_boucle.jpg](../Attachements/)
+![](../Attachements/conge_fonction_boucle.jpg)
 
 Vous pouvez dimensionner le diamètre du congé, moi je l'ai mis à 5mm. Il nous reste de valider la fonction pour voir le résultat. 
 
-[conge_validation.jpg](../Attachements/)
+![](../Attachements/conge_validation.jpg)
 
 De la même manière on peut créer des chanfrein.
 
-[chanfrein_fonction.jpg](../Attachements/)
+![](../Attachements/chanfrein_fonction.jpg)
 
 ### 2. Nervure
 
 Nous commençons par esquissé une ligne que nous nous servions pour créer une nervure.
 
-[nervure_esquisse.jpg](../Attachements/)
+![](../Attachements/nervure_esquisse.jpg)
 
 Cliquons maintenant sur le bouton de la fonction "Nervure".
 
-[outil_nervure.jpg](../Attachements/)
+![](../Attachements/outil_nervure.jpg)
 
 Vous pouvez paramétrer l'épaisseur de la nervure à 10mm.
 
-[nervure.jpg](../Attachements/)
+![](../Attachements/nervure.jpg)
 
 ### 3. Dépouille
 
@@ -233,11 +233,11 @@ Une dépouille est une légère inclinaison entre deux faces orthogonaux. Pour c
 
 Mon esquisse de base est un cube.
 
-[outil_depouille.jpg](../Attachements/)
+![](../Attachements/outil_depouille.jpg)
 
 La face qui nous servira de dircetion ne doit pas être parallèle à nos faces de dépouille. 
 
-[depouille.jpg](../Attachements/)
+![](../Attachements/depouille.jpg)
 
 1. la face  de direction de la dépouille;
 2. les faces qu'on veut dépouiller;
@@ -251,15 +251,15 @@ Vous pouvez changer la direction de la dépouille en cliquant sur la flèche ent
 
 Cet fonction transforme un volume en une coque (volume creux ), par contre la face sélectionnée va disparaitre après la validation . On clique sur le bouton de la fonction "Coque".
 
-[outil_coque.jpg](../Attachements/)
+![](../Attachements/outil_coque.jpg)
 
 Il faudra maintenant sélectionner les faces, dans mon cas je n'ai sélectionné qu'une seule face celle d'en haut.
 
-[coque.jpg](../Attachements/)
+![](../Attachements/coque.jpg)
 
 la figure suivante nous montre le résultat.
 
-[coque_validation.jpg](../Attachements/)
+![](../Attachements/coque_validation.jpg)
 
 $$version 1.2$$
 
@@ -269,26 +269,26 @@ Cette fonction est faite pour ajouter ou enlever de la matière, nous pourrons a
 
 Commençons par l'enroulement pour ajouter de la matière, il faudra tout d'bord préparer l'esquisse fermée sous forme de courbe.
 
-[enroulement_esquisse_ajout.jpg](../Attachements/)
+![](../Attachements/enroulement_esquisse_ajout.jpg)
 
 On clique sur le bouton la fonction "Enroulement".
 
-[outil_enroulement.jpg](../Attachements/)
+![](../Attachements/outil_enroulement.jpg)
 
 Il excite plusieurs choix comme vous pouvez le constater sur la figure suivante.
 
-[enroulement.jpg](../Attachements/)
+![](../Attachements/enroulement.jpg)
 
 1. Choix du type d'enroulement : ajout, enlèvement et gravure;
 2. Paramètres d'enroulement : esquisse, face, épaisseur.
 
 Dans mon exemple je vais rajouter de la matière à partir de mon esquisse.
 
-[enroulement_ajout.jpg](../Attachements/)
+![](../Attachements/enroulement_ajout.jpg)
 
 dans un second temps on ferra une gravure d'un texte sur notre cylindre. Je me suis servi d'une ligne de construction pour figurer mon texte.
 
-[enroulement_texte.jpg](../Attachements/)
+![](../Attachements/enroulement_texte.jpg)
 
 De la même manière on pourra aussi enlèver de la matière.
 
@@ -302,7 +302,7 @@ La fonction "Répétition linéaire"  pourra s'appliquer aussi sur les fonctions
 
 On clique sur le bouton "Répétition linéaire" de l'onglet Fonction du Bandeau principal de SolidWorks. 
 
-[outil_repetition_lineaire_fonction.jpg](../Attachements/)
+![](../Attachements/outil_repetition_lineaire_fonction.jpg)
 
 Il vient ensuite de paramétrer notre fonction : 
 
@@ -310,24 +310,24 @@ Il vient ensuite de paramétrer notre fonction :
 - Deuxièmement il faut spécifier la distance d'espacement ainsi que le nombre de répétition.
 - Troisièmement il faut indiquer la fonction à répéter.
 
-[repetition_lineaire_fonction.jpg](../Attachements/)
+![](../Attachements/repetition_lineaire_fonction.jpg)
 
 Pour la partie "Répétition circulaire ", j'utilise une deuxième pièce très simple pour illustré l'utilisation de la fonction.
 Commencez par le choix de la direction (cercle), définir l'angle ainsi que le nombre de répétition, au final il faut indiquer la fonction à répéter.
 
-[repetition_circulaire_fonction.jpg](../Attachements/)
+![](../Attachements/repetition_circulaire_fonction.jpg)
 
 ### 2. Outil de symétrie
 
 Une fonction vraiment utile pour symétriser des fonctions volumiques sur SolidWorks pour plus de productivité. Pour cela cliquez sur le bouton de la fonction "Symétrie" ou sur le menu déroulant des fonctions de répétitions.
 
-[outil_symetrie_fonction.jpg](../Attachements/)
+![](../Attachements/outil_symetrie_fonction.jpg)
 
 Ma pièce est très simple, elle contient seulement plusieurs fonctions de bases que nous avions vu jusqu'à maintenant.
 
 Je me suis servi de cette pièce pour faire cet exemple.
 
-[symetrie_fonction_esquisse.jpg](../Attachements/)
+![](../Attachements/symetrie_fonction_esquisse.jpg)
 
 Les paramètres à donner à cette fonction sont : 
 
@@ -335,7 +335,7 @@ Les paramètres à donner à cette fonction sont :
 2. un corps qui la pièce totale avec toutes ses fonctions; 
 3. il faut décocher l'option 1 (Fusionner les pièce volumiques) et cocher l'option 2 (coudre les surfaces).
 
-[symetrie_fonction.jpg](../Attachements/)
+![](../Attachements/symetrie_fonction.jpg)
 
 $$version 1.3$$
 
@@ -349,11 +349,11 @@ Les plans vont nous servir tout le temps, même si que les plans que nous utilis
 
 Pour cela il faut cliquer sur le bouton de la fonction "Plan".
 
-[outil_plan.jpg](../Attachements/)
+![](../Attachements/outil_plan.jpg)
 
 Il faut sélectionner un plan de référence, dans mon cas j'ai choisi le plan de face.
 
-[plan.jpg](../Attachements/)
+![](../Attachements/plan.jpg)
 
 1. Distance entre les plans; 
 2. Inverser la direction du plan;
@@ -361,7 +361,7 @@ Il faut sélectionner un plan de référence, dans mon cas j'ai choisi le plan d
 
 Dans le cas où on veut un plan incliné par rapport à un plan de référence, il suffit de cliquer sur le bouton entouré en rouge et mettre la valeur de l'angle en degré.
 
-[plan_perpendiculaire.jpg](../Attachements/)
+![](../Attachements/plan_perpendiculaire.jpg)
 
 #### b. Les axes
 
@@ -371,11 +371,11 @@ Un axe peut servir pour créer un plan, (à faire une résolution autour celui-c
 
 Si vous cliquer sur la fonction "Axe" du menu "Géométrie de référence".
 
-[outil_axe.jpg](../Attachements/)
+![](../Attachements/outil_axe.jpg)
 
 J'ai commencé mon exemple par utilisé une option qui me génère un axe par l'intersection entre deux plans.
 
-[axe_intersection.jpg](../Attachements/)
+![](../Attachements/axe_intersection.jpg)
 
 Vous pouvez aussi le définir à partir de : 
 
@@ -398,7 +398,7 @@ Nous allons voir comment on peut créer une hélice, une hélice nous servira po
 L'esquisse que nous allons utilisé comprend une entité circulaire.
 
 Dans mon exemple je veux créer une hélice à partir d'un cercle sur un plan que j'ai généré par l'outil plan.
-[helice_esquisse.jpg](../Attachements/)
+![](../Attachements/helice_esquisse.jpg)
 
 Maintenant on clique sur le bouton de la fonction "Hélice et spirale" du menu courbes.
 
