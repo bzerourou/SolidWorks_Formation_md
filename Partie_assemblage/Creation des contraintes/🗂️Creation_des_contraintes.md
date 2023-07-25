@@ -25,7 +25,6 @@ Il ne vous reste que de valider la fonction. La contrainte est visible sur l'arb
 
 Vous puvez constaté que mon écrou est libre en rotation et en translation suivant la hauteur de la vis (axe y), mais vous ne pouvez pas le faire bouger.
 
-
 On va rajouter une deuxième contrainte, cette fois-ci de distance pour que mon écrou ne bouge plus suivant l'axe y.
 Je recommence les opérations précédentes, je sélectionne la face basse de la tête de ma vis et la face haute de mon écrou, SolidWorks me proposera une contrainte de coïncidence, mais on va cliquer sur le bouton de la contrainte distance entourée en rouge et on valide (figure suivante).
 
@@ -38,9 +37,9 @@ D'abord on recommence les mêmes opérations, cette fois-ci on sélectionne la f
 
 Maintenant nos deux pièces sont totalement contraintes.
 
-
 $$version 1.2$$
-#### 2. Liste des contraintes utilisées 
+
+#### 2. Liste des contraintes utilisées
 
 Il existe sur SolidWorks bien d'autres contraintes que les trois que nous venons de voir. Nous pourrions les regrouper sous trois grandes catégories : 
 
@@ -49,41 +48,41 @@ Il existe sur SolidWorks bien d'autres contraintes que les trois que nous venons
 Nous allons voir dans cette première partie d'autres contraintes les plus utilisées sur SolidWorks.
 
 ##### 1. Coïncidente
-C'est quand on veut nos deux faces se collent l'une contre l'autre.
 
+C'est quand on veut nos deux faces se collent l'une contre l'autre.
 
 ##### 2. Perpendiculaire
 
 Les deux faces seront perpendiculaires.
 
-
 ##### 3. Tangente
 
 On l'utilise souvent avec entre les faces cylindriques et un plan, une face. 
 
-##### 4. Bloquante 
+##### 4. Bloquante
 
 Les deux entités sélectionnés seront bloqués entre eux, mais leurs mouvements seront liés, si on fait bouger une l'autre bouge aussi.
 
-##### 5. Angle 
+##### 5. Angle
 
 Cette contrainte permet de spécifier un angle entre deux entités sélectionnées.
 
-#### b. Contraintes avancées 
+#### b. Contraintes avancées
 
 ##### 1. Symétrie
+
 La contrainte de symétrie permet à deux entités de se comporter de façon symétrique par rapport à un plan.
 
-
-###### 2. Glissière 
+###### 2. Glissière
 
 Une contrainte  glissière permet à un objet de glisser suivant une seule direction, les deux autres sont bloquées. Donc elle bouge avec une distance égale.
 
-#### c. Contraintes mécaniques 
+#### c. Contraintes mécaniques
 
 Les contraintes mécaniques sont vraiment spécifiques aux études des macanismes. 
 
 Nous pourrions avoir : 
+
 - Pivot; 
 - Came; 
 - Pignon-crémaillère; 
