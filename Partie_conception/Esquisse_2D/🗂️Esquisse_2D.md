@@ -61,7 +61,7 @@ Remarque : Je vous recommande de toujours commencer la création de votre premie
 
 Y a une deuxième ligne qu'on appelle ligne de construction, elle ne contribue pas au dessin mais elle nous sert pour paramétrer nos esquisse (créer des contraintes).
 
-[outil_ligne_contruction.jpg](../Attachements/)
+![](../Attachements/outil_ligne_contruction.jpg)
 
 Suivez seulement les mêmes étapes de création de la ligne.
 
