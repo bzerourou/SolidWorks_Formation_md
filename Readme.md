@@ -22,3 +22,7 @@ La formation d'initiation est structurée en quatre grandes parties :
 # Déroulement de la formation
 
 Chaque partie possède des cours de bases sous plusieurs formats, PDF, vidéos, à suivre étapes par étapes pour apprendre l'utilisation, des exercices de simples utilisation et en fin des TPs d'un niveau un plus difficile.
+
+
+
+# La plannification des tâches
