@@ -6,8 +6,8 @@ La partie englobe en gros la création d'un premier projet d'assemblage, importa
 
 # Programme du cours
 
-[🗂️Interface assemblage](Interface_assemblage/)
+[🗂️Interface assemblage](Interface_assemblage/🗂️interface_assemblage.md)
 
-[🗂️Créations des contraintes](Creation_des_contraintes/)
+[🗂️Créations des contraintes](Creation_des_contraintes/🗂️Creation_des_contraintes.md)
 
 # Historique des versions
