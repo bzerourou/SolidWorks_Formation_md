@@ -9,3 +9,5 @@ On parcourra son historique, premier contact avec le logiciel, l'interface graph
 [🗂️Esquisse 2D](Esquisse_2D/🗂️Esquisse_2D.md)
 
 [🗂️Conception volumique](Conception_volumique/🗂️Conception_volumique.md)
+
+[🗂️TPs](TPs/TPs.md)

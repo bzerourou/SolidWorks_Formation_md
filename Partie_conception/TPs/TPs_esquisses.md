@@ -6,6 +6,7 @@ Ces TPs sont réalisés par la chaine YouTube : CAD - CAM - FEA DIDACTICIEL.
 [(7) CAD - CAM - FEA DIDACTICIEL - YouTube](https://www.youtube.com/@cad-cam-feadidacticiel9400)
 
 ## TP1 :
+
 Voila le plan de la première pièce à concevoir.
 
 ![[esquisse11.JPG]]
@@ -13,8 +14,8 @@ Voila le plan de la première pièce à concevoir.
 Le lien de toute la conception : 
 [SolidWorks Practice N°1 sketching 2D - YouTube](https://www.youtube.com/watch?v=E9SQErZeopI&list=PLbYLm-MniLy6QzsBYRN3A8I6NajS5pET&index=1)
 
-
 ## TP2 :
+
 Le deuxième esquisse est un peu plus difficile.
 
 ![[esquisse2.JPG]]
@@ -29,6 +30,7 @@ Il est simple.
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°3 sketching 2D - YouTube](https://www.youtube.com/watch?v=TmAZ_msmI4E&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=3)
+
 ## TP4 :
 
 Vraiment très simple.
@@ -69,4 +71,3 @@ Simple à réaliser avec la perspective.
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°9 3D - YouTube](https://www.youtube.com/watch?v=GJPq3sNZ8qw&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=9)
-
