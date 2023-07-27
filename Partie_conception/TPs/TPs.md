@@ -9,7 +9,3 @@ Les Travaux Pratiques seront répartoriés sur différentes parties :
 [🗂️TPs mise en plan](TPs_mise_en_plan.md)
 
 [🗂️TPs volumiques](TPs_volumiques.md)
-
-
-
-
