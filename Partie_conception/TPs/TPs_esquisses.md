@@ -9,7 +9,7 @@ Ces TPs sont réalisés par la chaine YouTube : CAD - CAM - FEA DIDACTICIEL.
 
 Voila le plan de la première pièce à concevoir.
 
-![[esquisse11.JPG]]
+![](Attachements/esquisse11.JPG)
 
 Le lien de toute la conception : 
 [SolidWorks Practice N°1 sketching 2D - YouTube](https://www.youtube.com/watch?v=E9SQErZeopI&list=PLbYLm-MniLy6QzsBYRN3A8I6NajS5pET&index=1)
@@ -18,7 +18,7 @@ Le lien de toute la conception :
 
 Le deuxième esquisse est un peu plus difficile.
 
-![[esquisse2.JPG]]
+![](Attachements/esquisse2.JPG)
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°2 sketching 2D - YouTube](https://www.youtube.com/watch?v=EYp2NyOX2Cg&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=2)
@@ -26,7 +26,7 @@ Le lien de toute la conception :
 ## TP3 :
 
 Il est simple.
-![[esquisse3.JPG]]
+![](Attachements/esquisse3.JPG)
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°3 sketching 2D - YouTube](https://www.youtube.com/watch?v=TmAZ_msmI4E&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=3)
@@ -34,7 +34,7 @@ Le lien de toute la conception :
 ## TP4 :
 
 Vraiment très simple.
-![[esquisse4.JPG]]
+![](Attachements/esquisse4.JPG)
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°4 3D - YouTube](https://www.youtube.com/watch?v=4zEeGMzO6Vc&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=4)
@@ -42,7 +42,7 @@ Le lien de toute la conception :
 ## TP5 :
 
 Pas trop difficile.
-![[esquisse5.JPG]]
+![](Attachements/esquisse5.JPG)
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°5 3D - YouTube](https://www.youtube.com/watch?v=jUDgvC8JLXs&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=5)
@@ -50,7 +50,7 @@ Le lien de toute la conception :
 ## TP6 :
 
 La présence de la perspective facilite la tâche.
-![[esquisse6.JPG]]
+![](Attachements/esquisse6.JPG)
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°6 3D - YouTube](https://www.youtube.com/watch?v=OJaZOiC4hjY&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=6)
@@ -58,7 +58,7 @@ Le lien de toute la conception :
 ## TP :
 
 Facile comme même. 
-![[esquisse7.JPG]]
+![](Attachements/esquisse7.JPG)
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°7 3D - YouTube](https://www.youtube.com/watch?v=imrdOMeXPO0&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=7)
@@ -67,7 +67,7 @@ Le lien de toute la conception :
 
 Simple à réaliser avec la perspective.
 
-![[esquisse8.JPG]]
+![](Attachements/esquisse8.JPG)
 
 Le lien de toute la conception : 
 [(7) SolidWorks Practice N°9 3D - YouTube](https://www.youtube.com/watch?v=GJPq3sNZ8qw&list=PLbYLm-MnieLy6QzsBYRN3A8I6NajS5pET&index=9)
