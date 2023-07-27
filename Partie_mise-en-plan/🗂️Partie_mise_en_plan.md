@@ -1,8 +1,6 @@
 $$version 1.0$$
 
-
 ![[SolidWorks/Partie_mise-en-plan/about|about]]
-
 
 Ce cours est basé sur une vidéo  YouTube qui parle sur les bases de la création d'une première mise en plan sur SolidWorks sur une pièce déjà existante.
 
@@ -10,12 +8,11 @@ Ce cours est basé sur une vidéo  YouTube qui parle sur les bases de la créati
 
 version PDF de cette note : [[🗂️Partie mise en plan.pdf]]
 
-## 1. Création de la première mise en plan 
+## 1. Création de la première mise en plan
 
 Sur le fichier de conception de notre pièce on clique sur le bouton "Créer une mise en plan à partir de la pièce" du menu Fichier.
 
 ![[piece_mise-en-plan.jpg]]
-
 
 Nous aurons comme résultat cette première fenêtre dédiée à la mise en plan de SolidWorks, Vous pouvez décocher l'option "Afficher uniquement les formats standards" pour voir tous les différents formats qui existent. J'ai choisi le format "iso A4" puis j'ai validé en cliquant sur le bouton "OK".
 
@@ -29,14 +26,14 @@ Vous avez devant vous la troisième interface de SolidWorks dédiée pour la mis
 
 ![[interface_mise-en-plan.jpg]]
 
-
 ## 2. Personnalisation
+
 Pour personnaliser la police, mettre la taille à 14, mais enlever aussi les zéros de droite sur nos côtes, il faut suivre la suite l'ordre des clique des boutons comme la figure ci-dessous.
 
 ![[personnalisation_cotation.jpg]]
 
+## 3. Déposer des vues
 
-## 3. Déposer des vues 
 Nous continuons notre long chemin, pour déposer les vues sur notre feuille, on va se servir de l'arbre des vues sur la droite, vous pouvez commencer par déposer la vue de face. Pour cela cliquez sur cette vue et faites-la glisser sur la feuille.
 
 ![[glisser_vue_face.jpg]]
@@ -55,14 +52,13 @@ Il faut sélectionner la vue désirée, sur la barre des propriétés, se mettre
 
 ![[changer_echelle.jpg]]
 
-
 $$version 1.1$$
 Types d'affichage des vues (filaire, cotation cachées ) version 1.0
 
-
-
 $$version 1.0$$
+
 ## 4. Création des côtations
+
 Pour Commencer la cotation, le mieux est d'utiliser un outil très efficace de SolidWorks qui nous permet une première cotation simple et rapide, mais peu fiable, souvent il faut lui apporter des modifications.
 
 Pour cela il faut se rendre sur l'onglet "Annotations " du bandeau principal, puis cliquer sur le bouton "Objets du modèle" comme cette figure.
@@ -105,6 +101,3 @@ Une fois votre feuille est terminée il faudra la sauvegarder, pour cela rien de
 Les fichiers de mise en plan sur SolidWorks ont l'extension .slddrw, donnez un nom au fichier et un chemin et cliquez à la fin sur le bouton "Enregistrer".
 
 ![[sauvergarder_plan.jpg]]
-
-
-
