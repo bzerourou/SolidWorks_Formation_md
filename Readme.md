@@ -17,7 +17,7 @@ La formation d'initiation est structurée en quatre grandes parties :
 
 [🗂️Partie assemlage](Partie_assemblage/🗂️Partie_assemlage.md)
 
-[🗂️Partie mise en plan](Partie_mise-en-plan/Partie_mise_en_plan.md)
+[🗂️Partie mise en plan](Partie_mise-en-plan/)
 
 # Déroulement de la formation
 
