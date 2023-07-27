@@ -22,3 +22,25 @@ La formation d'initiation est structurée en quatre grandes parties :
 # Déroulement de la formation
 
 Chaque partie possède des cours de bases sous plusieurs formats, PDF, vidéos, à suivre étapes par étapes pour apprendre l'utilisation, des exercices de simples utilisation et en fin des TPs d'un niveau un plus difficile.
+
+# Avancement des tâches
+
+- [ ] Partie Conception
+  
+  - [x] Interface 
+  
+  - [x] Esquisse
+  
+  - [x] Création de volumique 
+
+- [ ] Partie Assemblage 
+  
+  - [x] Interface assemblage 
+  
+  - [x] Création des contraintes
+
+- [ ] Partie mise en plan 
+  
+  - [x] Création d'une première mise en plan 
+
+- [ ] TPs
