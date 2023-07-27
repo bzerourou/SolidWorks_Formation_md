@@ -9,7 +9,7 @@ Ces TPs sont réalisés par la chaine YouTube : CAD - CAM - FEA DIDACTICIEL.
 
 Ce premier TP est une première application des toutes les notions que nous avions appri dans la formation "Introduction à SolidWorks".  La figure suivante représente l'esquisse à reproduire.
 
-![[Pièce001.JPG]]
+![](Attachements/Pièce001.JPG)
 
 Le résumé des étapes de la conception : 
 
@@ -25,7 +25,7 @@ La conception complète est sur ce lien :
 
 La figure ci-dessous résume l'esquisse qu'on doit faire.
 
-![[Pièce002.JPG]]
+![](Attachements/Pièce002.JPG)
 
 Procédures : 
 
@@ -44,7 +44,7 @@ La solution complète est sur ce lien :
 
 Dans ce TP on voit voir un peu la façon dont on pourra faire la pièce suivante : 
 
-![[Pièce003.JPG]]
+![](Attachements/Pièce003.JPG)
 
 Procédures à suivre pour la conception de la pièces :
 
@@ -63,7 +63,7 @@ La conception complète :
 
 On continue toujours avec les fonctionnalités de bases d'ajout et d'enlèvement de la matière, la pièce sur la figure est assez simple.
 
-![[Pièce004.JPG]]
+![](Attachements/Pièce004.JPG)
 
 Les procédures à suivre : 
 
@@ -79,7 +79,7 @@ La conception complète :
 
 La pièce figurante est un peu plus complèxe que quatre premières, il faudra maitement réfléchir à comment faire l'esquisse.
 
-![[Pièce005.JPG]]
+![](Attachements/Pièce005.JPG)
 
 Procédures à suivre : 
 
@@ -94,7 +94,7 @@ La conception complète sur ce lien :
 
 Un exemple un peu plus poussée que d'habitude cette fois-ci.
 
-![[Pièce006.JPG]]
+![](Attachements/Pièce006.JPG)
 
 Procédures à suivre : 
 
@@ -108,13 +108,13 @@ La conception complète :
 
 ## TP7 :
 
-![[pièce007.JPG]]
+![](Attachements/pièce007.JPG)
 
 ## TP8 :
 
 Plus que les pièces ordinaires.
 
-![[pièce008.JPG]]
+![](Attachements/pièce008.JPG)
 
 Etape de conception à suivre : 
 
@@ -131,7 +131,7 @@ La conception complète :
 
 Cette pièce est un plus complexe que d'habitude alors faites un effort.
 
-![[pièce009.JPG]]
+![](Attachements/pièce009.JPG)
 
 Etapes à suivre : 
 
@@ -146,7 +146,7 @@ La conception complète :
 
 La pièce à déjà un rendu en 3D perspective, vous n'aurez pas de problème à la reproduire. 
 
-![[pièce010.JPG]]
+![](Attachements/pièce010.JPG)
 
 Etapes à suivre :
 
