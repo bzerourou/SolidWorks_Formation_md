@@ -13,27 +13,27 @@ Reprenons notre exemple de vis-écrou, après importation bien sur, pour contrai
 
 Maintenant il faut sélectionner le cylindre intérieur de l'écrou comme la figure.
 
-![[contrainte_cylindre_int_ecrou.jpg]]
+![](../Attachements/contrainte_cylindre_int_ecrou.jpg)
 
 Après il faudra encore sélectionner cette fois-ci la partie extérieure de notre vis, vous allez voir que SolidWorks a automatiquement détecter la contrainte de type coaxiale entre les deux parties des de nos deux pièces, comme la figure suivante.
 
-![[contrainte_vis_ecrou.jpg]]
+![](../Attachements/contrainte_vis_ecrou.jpg)
 
 Il ne vous reste que de valider la fonction. La contrainte est visible sur l'arbre de création.
 
-![[contrainte_ecrou_rotation.jpg]]
+![](../Attachements/contrainte_ecrou_rotation.jpg)
 
 Vous puvez constaté que mon écrou est libre en rotation et en translation suivant la hauteur de la vis (axe y), mais vous ne pouvez pas le faire bouger.
 
 On va rajouter une deuxième contrainte, cette fois-ci de distance pour que mon écrou ne bouge plus suivant l'axe y.
 Je recommence les opérations précédentes, je sélectionne la face basse de la tête de ma vis et la face haute de mon écrou, SolidWorks me proposera une contrainte de coïncidence, mais on va cliquer sur le bouton de la contrainte distance entourée en rouge et on valide (figure suivante).
 
-![[contrainte_hauteur.jpg]]
+![](../Attachements/contrainte_hauteur.jpg)
 
 Maintenant vous pouvez constaté que l'écrou ne bouge pas sur la hauteur, il peut seulement tourner . Pour le contraindre totalement on va rajouter une troisième contrainte. 
 D'abord on recommence les mêmes opérations, cette fois-ci on sélectionne la face droite ainsi que l'une des six face extérieures de notre écrou, SolidWorks va vous proposer une contrainte parallèle entre ces deux faces.
 
-![[contrainte_parallele.jpg]]
+![](../Attachements/contrainte_parallele.jpg)
 
 Maintenant nos deux pièces sont totalement contraintes.
 
