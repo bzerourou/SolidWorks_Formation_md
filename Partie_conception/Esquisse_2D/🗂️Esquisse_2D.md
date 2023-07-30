@@ -84,15 +84,11 @@ Continuons, si vous cliquer sur le bouton gauche de votre souris après avoir ch
 
 ![](../Attachements/cotation_valeur.jpg)
 
-
-
 _Remarque_ : il est possible de changer la position la position de la côte même après validation de la saisie mais toujours dans l'état édition d'esquisse, il faut seulement le sélectionner.
 
 Vous pouvez constaté que sur la barre d'état de SolidWorks, il est écrit **"Sous-contrainte"**, cela veut dire que notre esquisse n'est pas totalement bien définit, le point de départ de notre ligne est en coïncidence avec le point de référence, on ne peut pas le faire bouger, mais le deuxième point si, il est possible de la faire bouger. 
 
 ![](../Attachements/esquisse_sous_contrainte.png)
-
-
 
 _Remarque_ : l'esquisse sous-contrainte est toujours en couleur bleu.
 
@@ -135,8 +131,6 @@ Le premier point que vous allez créer est le centre du cercle et le deuxième e
 La  deuxième option pour les cercles est le cercle passant par trois points, de la même manière que nous avions suivi pour construire le premier cercle.
 
 ![](../Attachements/outil_cercle_3points.png)
-
-
 
 Passons maintenant à l'outil arc, de la même manière que nous avions procédé pour la création des cercles. Il existe trois options pour la création des arcs : 
 

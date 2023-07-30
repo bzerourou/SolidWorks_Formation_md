@@ -5,8 +5,6 @@ Cette formation englobe le résumé des fonctionnalités de bases de SolidWorks 
 - [(10) CAD - CAM - FEA DIDACTICIEL - YouTube](https://www.youtube.com/@cad-cam-feadidacticiel9400), qui utilise différentes versions (2017, 2019, 2022);
 - [(10) GMCProd Formation SolidWorks - YouTube](https://www.youtube.com/@formationsolidworks), version 2010, et quelques vidéos avec la version 2022;
   De la formation proposé par OpenClassRoom sur SolidWorks sur ce lien :[Apprenez à utiliser SolidWorks - OpenClassrooms](https://openclassrooms.com/fr/courses/1553986-apprenez-a-utiliser-solidworks), version 2010.
-  
-  
 
 Mais aussi de la documentation officielle de SolidWorks [Bienvenue dans l'aide en ligne de SOLIDWORKS - 2022 - Aide de SOLIDWORKS](https://help.solidworks.com/2022/french/SolidWorks/sldworks/r_welcome_sw_online_help.htm).
 
@@ -31,16 +29,38 @@ Chaque partie possède des cours de bases sous plusieurs formats, PDF, vidéos, 
 - [ ] Partie Conception
   
   - [x] Interface 
+    
+    - [x] Interface
+    
+    - [ ] Les unités 
+    
+    - [ ] le menu Option
+    
+    - [ ] la fonctionnalité complément
+    
+    - [ ] Menu onglet du Bandeau
   
   - [x] Esquisse
+    
+    - [x] Introduction
+    - [x] Créer et éditer une esquisse
+    - [x] Outils de base
+    - [x] Outils avancés 1
+    - [x] Outils avancés 2 
   
   - [x] Création de volumique 
 
 - [ ] Partie Assemblage 
   
   - [x] Interface assemblage 
+    
+    - [ ] Création et importation
+    - [ ] Enregistrement
   
   - [x] Création des contraintes
+    
+    - [ ] Introductions aux contraintes  
+    - [ ] Liste des contraintes
 
 - [ ] Partie mise en plan 
   
