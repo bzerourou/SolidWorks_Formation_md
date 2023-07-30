@@ -110,25 +110,25 @@ Remarque : une bonne conception est celle qui contraint totalement nos esquisses
 
 ### c. Outil rectangle
 
-Nous allons voir seulement les deux premiers types de construction d'un rectangle. Pour le rectangle passant par deux sommets, il suffit de cliquer sur le premier bouton.
+Nous allons voir seulement les deux premiers types de construction d'un rectangle. Pour le rectangle passant par deux sommets, il suffit de cliquer sur le premier bouton **"Rectangle par sommet "**.
 
 ![](../Attachements/outil_rectangle_2sommets.jpg)
 
-ça va vous demander de définir le premier sommet, vous faites glisser la souri pour définir sa longueur et largeur.
+ça va vous demander de définir le premier sommet, vous faites glisser la souris pour définir sa longueur et sa largeur.
 
 ![](../Attachements/rectangle_2sommets.jpg)
 
-La deuxième option est de définir un rectangle par son centre qu'il faudra choisir en premier après les deux autres.
+La deuxième option est de définir un rectangle par son centre qu'il faudra choisir en premier lieu après on passera à sa longueur et largeur.
 
 ![](../Attachements/rectangle_centre.jpg)
 
 ### d. Outil cercle et arcs
 
-Commençons par le cercle, il suffit de cliquer sur le bouton "Cercle" passant par son centre. 
+Commençons par le cercle, il suffit de cliquer sur le bouton **"Cercle"** passant par son centre. 
 
 ![](../Attachements/outil_cercle.jpg)
 
-Le premier point que vous allez créer est le centre du cercle et le deuxième, faites glisser cotre souris pour définir le rayon de votre cercle comme sur la figure suivante.
+Le premier point que vous allez créer est le centre du cercle et le deuxième est son rayon , faites glisser votre souris pour définir le rayon de votre cercle comme sur la figure suivante.
 
 ![](../Attachements/cercle.jpg)
 
@@ -136,12 +136,14 @@ La  deuxième option pour les cercles est le cercle passant par trois points, de
 
 ![](../Attachements/outil_cercle_3points.png)
 
+
+
 Passons maintenant à l'outil arc, de la même manière que nous avions procédé pour la création des cercles. Il existe trois options pour la création des arcs : 
 
 - Arc par son centre ; 
 - Arc tangent; 
 - Arc par 3 points.
-  Nous ne verrons que la première option, car les deux autres se faite de la même manière. Cliquez sur le bouton " Arc par son centre".
+  Nous ne verrons que la première option, car les deux autres se fait de la même manière. Cliquez sur le bouton **" Arc par son centre"**.
 
 ![](../Attachements/outil_arc_centre.jpg)
 
@@ -151,7 +153,7 @@ Avec le clic gauche de votre souris sur un point de votre choix sur votre plan v
 
 ### e. Outil de rainure
 
-Un outil très utile qui facilite vraiment la vie à l'ingénieur, au lieu de le faire à partir de zéro en utilisant les lignes et les arcs, l'outil "rainure". Il existe quatre façons de construire les rainures sur SolidWorks : 
+Un outil très utile qui facilite vraiment la vie à l'utilisateur, au lieu de le faire à partir de zéro en utilisant les lignes et les arcs, l'outil **"rainure"** vous facolite la tâche. Il existe quatre façons de construire les rainures sur SolidWorks : 
 
 - Rainure droite; 
 - Rainure droite par son centre; 
@@ -161,26 +163,26 @@ Un outil très utile qui facilite vraiment la vie à l'ingénieur, au lieu de le
 
 ![](../Attachements/outil_rainure_droite.jpg)
 
-Il se construit en définition par le choix des positions de ses deux points distant d'une longueur , on passe après au diamètre de l'un des arcs.
+Il se construit en définition par le choix des positions de ses deux points distant d'une longueur , on passe après au diamètre de l'un de ses deux arcs.
 
 ![](../Attachements/rainure_droite.jpg)
 
-La deuxième option est la rainure droite qu'on pourra définir par son centre et un second paramètre qui est la longueur entre se centre et le centre de l'un des deux arcs de la rainure.
+La deuxième option est la rainure droite qu'on pourra définir par son centre et un second paramètre qui est la longueur entre ce centre et le centre de l'un de ses deux arcs.
 
 ![](../Attachements/rainure_droite_centre.jpg)
 
 ### f. Outils des polygones
 
-On créera un polygone avec cet outil. Cliquez sur le bouton "Polygone".
+On créera un polygone avec cet outil. Cliquez sur le bouton **"Polygone"**.
 
 ![](../Attachements/outil_polygone.jpg)
 
-Vous pouvez voir que y a un paramètre du nombre de sommets du polygone, la valeur par défaut est 6 (hexagone) comme dans mon exemple.
-Toujours on positionne son centre, ensuite on passe définir la longueur entre son centre et l'un des sommets du polygone.
+Vous pouvez voir qu'il y a un paramètre du nombre de sommets du polygone, la valeur par défaut est 6 (hexagone) comme dans mon exemple.
+Toujours on positionne son centre, ensuite on passe à la définition de sa longueur entre son centre et l'un des sommets du polygone.
 
 ![](../Attachements/polygone.jpg)
 
-Remarque : le nombre minimal de sommets d'un polygone sur SolidWorks est 3, on aura ainsi un triangle équilatéral.
+_Remarque_ : le nombre minimal de sommets d'un polygone sur SolidWorks est 3, on aura ainsi un triangle équilatéral.
 
 ## 2.2 Outils avancés 1
 
