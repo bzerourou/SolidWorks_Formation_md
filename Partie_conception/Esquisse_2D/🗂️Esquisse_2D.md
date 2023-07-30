@@ -186,20 +186,20 @@ _Remarque_ : le nombre minimal de sommets d'un polygone sur SolidWorks est 3, on
 
 ## 2.2 Outils avancés 1
 
-Dans cette deuxième partie on verra des outils avancés de formes, nous allons voir les ellipse, les courbes de Bézier, le congé et le chanfrein.
+Dans cette deuxième partie on verra des outils avancés de formes, nous allons voir les ellipses, les courbes de Bézier, le congé et le chanfrein.
 
 ### a. Outil d'ellipse
 
 L'ellipse est une forme peu utilisé sur les dessins d'ingénierie, mais il faut apprendre comme même à s'en servir pour des besoins dans le cas de certaines pièces aux TPs.
-Pour cela il faut cliquer sur le bouton "Ellipse".
+Pour cela il faut cliquer sur le bouton **"Ellipse"**.
 
 ![](../Attachements/outil_ellipse.jpg)
 
-Premièrement il faut cliquer afin de créer le premier point qui est le centre de notre ellipse, je suppose que maintenant vous vous êtes habitué à penser au point de référence de SolidWorks, puis faites glisser la souri pour définir le premier diamètre suivant l'axe x.
+Premièrement il faut cliquer sur un point quiconque afin de créer le premier point qui est le centre de notre ellipse, je suppose que maintenant vous vous êtes habitué à penser au point de référence de SolidWorks, puis faites glisser la souris pour définir le premier diamètre suivant l'axe x.
 
 ![](../Attachements/ellipse.jpg)
 
-Toujours en faisant glisser le souris vers une  direction perpendiculaire pour second diamètre. La figure suivante nous montre le deuxième diamètre suivant l'axe y.
+Toujours en faisant glisser le souris vers une  direction perpendiculaire pour le second diamètre. La figure suivante nous montre le deuxième diamètre suivant l'axe y.
 
 ![](../Attachements/ellipse_forme.jpg)
 
@@ -209,13 +209,13 @@ Il s'agit simplement d'un outil qui crée une courbe passant par plusieurs point
 
 ![](../Attachements/outil_bspline.jpg)
 
-Vous pouvez modifier cette courbe en repositionnant les points qui la constitue, dans le cas où vous avez cliqué sur l'un de ces points qu'on appelle généralement les points de contrôles et vous le faites bouger la coure change automatiquement de forme.
+Vous pouvez modifier cette courbe en repositionnant les points qui la constitue, dans le cas où vous avez cliqué sur l'un de ces points qu'on appelle généralement les points de contrôles et vous le faites bouger, la courbe change automatiquement de forme.
 
 ![](../Attachements/outil_bspline_control.jpg)
 
 ### c. Outil congé, chanfrein
 
-Nous commençons par utiliser le congé, c'est simplement de créer un arc tangent entre deux lignes, on arrondi l'intersection orthogonale. Cliquez sur le bouton de la fonction "Congé d'esquisse".
+Nous commençons par utiliser le congé, c'est simplement de créer un arc tangent entre deux lignes, on arrondi l'intersection orthogonale. Cliquez sur le bouton de la fonction **"Congé d'esquisse"**.
 
 ![](../Attachements/outil_conge.jpg)
 
@@ -223,7 +223,7 @@ Maintenant il faut spécifier les points, ou bien les deux lignes, il faut intro
 
 ![](../Attachements/conge.jpg)
 
-De la même manière on peut choisir de créer un chanfrein au lieu du congé. Il faudrait cliquer sur le bouton de la fonction "Chanfrein d'esquisse".
+De la même manière on peut choisir de créer un chanfrein au lieu du congé. Il faudrait cliquer sur le bouton de la fonction **"Chanfrein d'esquisse"**.
 
 ![](../Attachements/chanfrein.jpg)
 
@@ -239,15 +239,15 @@ On avait parlé jusqu'à maintenant des formes et leurs paramètres de création
 
 ### a. Outil d'ajustement des entités
 
-ça ressemble à un ciseau, il coupe les entités, l'outil d'ajustement est très utile lorsqu'il est question d'enlever certaines esquisses entités (formes). Pour cela nous cliquons sur le bouton de la fonction "Ajuster les entités".
+ça ressemble à un ciseau, il coupe les entités, l'outil d'ajustement est très utile lorsqu'il est question d'enlever certaines entités (formes). Pour cela nous cliquons sur le bouton de la fonction **"Ajuster les entités"**.
 
 ![](../Attachements/outil_ajuster.jpg)
 
-Vous pouvez voir dans cet exemple en appuyant sur la première option "Ajustement intelligent", deux lignes sécantes et on veut garder que la partie basse. En gardant le clic du bouton gauche de la souris tout en survolant(trait gris) les deux entités d'en haut, SolidWorks va les ajusté.  
+Vous pouvez voir dans cet exemple en appuyant sur la première option **"Ajustement intelligent"**, deux lignes sécantes et on veut garder que la partie basse. En gardant le clic du bouton gauche de la souris tout en survolant(trait gris) les deux entités d'en haut, SolidWorks va les ajusté.  
 
 ![](../Attachements/ajuster_intelligent.jpg)
 
-Remarque : un carré rouge apparait au moment de l'intersection entre l'entité (ligne) et notre outil d'ajustement.
+_Remarque_ : un petit carré rouge apparait au moment de l'intersection entre l'entité (ligne) et notre outil d'ajustement.
 
 ### b. Outil de conversion des entités
 
@@ -256,7 +256,7 @@ Nous parlerons plus de cet outil dans la partie conception volumique.
 ### c. Outil de décalage des entités
 
 Cet outil permet de créer un contour à l'intérieur ou à l'extérieur ou les deux à partir d'une esquisse de base.
-Il suffit de cliquer sur le  bouton "Décaler les entités ".
+Il suffit de cliquer sur le  bouton **"Décaler les entités "**.
 
 ![](../Attachements/outil_decaler.jpg)
 
@@ -266,7 +266,7 @@ Vous pouvez le constater, un nouveau contour de couleur jaune entoure notre esqu
 
 ### d. Outil de symétrie
 
-Cet outil a besoin d'une ligne de construction qui nus servira d'axe de symétrie, pour utiliser cet outil cliquez sur le bouton de la fonction "Symétrie des entités".  
+Cet outil a besoin d'une ligne de construction qui nus servira d'axe de symétrie, pour utiliser cet outil cliquez sur le bouton de la fonction **"Symétrie des entités"**.  
 
 ![](../Attachements/outil_symetrie.jpg)
 
@@ -283,13 +283,13 @@ Il existe deux formes de répétitions :
 
 - Linéaire;
 - Circulaire.
-  Nous commençons tout d'abord par voir la répétition linéaire. Avant de cliquez sur le bouton de la fonction "Répétition linéaire d'esquisse" cette fois-ci il faudra sélectionné tout d'abord l'entité qu'on veut symétrisé.
+  Nous commençons tout d'abord par voir la répétition linéaire. Avant de cliquez sur le bouton de la fonction **"Répétition linéaire d'esquisse"**cette fois-ci il faudra sélectionner l'entité qu'on veut symétriser.
 
 ![](../Attachements/outil_repetition_lineaire.jpg)
 
 Ensuite nous aurons la boite des propriétés sur la gauche comme la figure ci-dessous.  
 
-On précise les axes suivants les deux directions suivantes : 
+On précise les axes suivants lesquels on veut crée nos répétitions : 
 
 1. Répétition suivant l'axe x.
 2. Répétition suivant y
@@ -298,7 +298,7 @@ On précise les axes suivants les deux directions suivantes :
 
 Vous pouvez aussi modifier le nombre d'entité voulu ainsi que la distance entre elles.
 
-Passons maintenant au deuxième outil, une fois l'entité est sélectionnée, dans le cas de mon exemple, un cercle, il faut ensuite cliquer sur le bouton de la fonction "Répétition circulaire d'esquisse". 
+Passons maintenant au deuxième outil, une fois l'entité est sélectionnée, dans le cas de mon exemple, un cercle, il faut ensuite cliquer sur le bouton de la fonction **"Répétition circulaire d'esquisse"**. 
 
 ![](../Attachements/outil_repetition_circulaire.jpg)
 
@@ -308,7 +308,7 @@ la boite des propriétés s'ouvre sur la gauche, cette fois-ci on va choisir un 
 
 ### f. Outil de déplacement des entité
 
-Cet outil nous sert à déplacer (translater) des entités, cliquez sur le bouton de la fonction "Déplacer les entités".
+Cet outil nous sert à déplacer (translater) des entités, cliquez sur le bouton de la fonction **"Déplacer les entités"**.
 
 ![](../Attachements/outil_deplacer.jpg)
 
@@ -320,18 +320,18 @@ Ensuite il faut paramétrer l'orientation et la distance, dans mon cas j'ai pré
 
 ![](../Attachements/deplacer.jpg)
 
-Remarque : de la même façon que nous avions utilisé l'outil de déplacement, vous pourrez le répéter pour les fonctionnalités : 
+Remarque_ : de la même façon que nous avions utilisé l'outil de déplacement, vous pourrez le répéter pour les fonctionnalités : 
 
 - Copier des entités; 
 - Pivoter des entités ( en spécifiant l'angler et la direction de l'angle );
 
-Pour l'outil mettre à l'échelle les entités, en plus des entités à mettre en échelle, bien sur après avoir cliquer sur le bouton de la fonction "Mettre à l'échelle les entités", il faudra spécifier un point à partir duquel SolidWorks va le construit, comme la figure suivante.
+Pour l'outil mettre à l'échelle les entités, en plus des entités à mettre en échelle, bien sur après avoir cliquer sur le bouton de la fonction **"Mettre à l'échelle les entités"**, il faudra spécifier un point à partir duquel SolidWorks va le construire, comme la figure suivante.
 
 ![](../Attachements/echelle.jpg)
 
 ## 2.4 Outils d'orientations
 
-Le changement d'orientation est en gros de passer d'une vue à une autre, ils sont des tâches très utilisés dans SolidWorks par le technicien ou ingénieur. 
+Le changement d'orientation est en gros est de  passer d'une vue à une autre, ils sont des outils  très utilisés dans SolidWorks par l'utilisateur. 
 
 ![](../Attachements/outil_orientations.jpg)
 
@@ -342,6 +342,6 @@ Vous pouvez le deviné, quand on sélectionne un plan quiconque, Par exemple, le
 
 ![](../Attachements/outil_orietation_normal.jpg)
 
- Si vous cliquez sur le dernier bouton sur la droite, le bouton "normal", il va s'orienter suivant la normale du plan (ou face ) choisi. Il existe un raccourci clavier qui est le bouton "espace" pour faire apparaitre le menu des vues.
+ Si vous cliquez sur le dernier bouton sur la droite, le bouton **"normal"**, il va s'orienter suivant la normale du plan (ou face ) choisi. Il existe un raccourci clavier qui est le bouton **"espace"** pour faire apparaitre le menu des vues.
 
 ![](../Attachements/orietation_normal.jpg)
