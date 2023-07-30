@@ -1,6 +1,6 @@
 $$version 1.0$$
 
-Première partie du premier chapitre qui est une brève présentation de SolidWorks, son interface graphique et comment le configurer pour une meilleur utilisation.
+Dans cette première partie du premier chapitre qui est une brève présentation de SolidWorks, son interface graphique et comment le configurer pour une meilleur utilisation.
 
 # Sommaire
 

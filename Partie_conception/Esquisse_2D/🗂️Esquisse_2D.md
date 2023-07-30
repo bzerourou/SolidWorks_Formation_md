@@ -12,13 +12,13 @@ révision de l'orthographe et la saisie complète.$$
 
 ## 1. Introduction à l'esquisse
 
-Une esquisse sur SolidWorks est l'objet de base pour toutes conceptions, il représentera la géométrie ainsi que leurs dimensions pour nos future pièces. On pourra dire aussi que l'esquisse est simplement un claque dans lequel on dessine des géométries de bases, vous pouvez rapidement comprendre qu'on pourra avoir autant de calques qu'on faudra, l'un superposé sur l'autre, peut être aussi ils seront orthogonaux, inclinés, etc.
+Une esquisse sur SolidWorks est l'objet de base pour toutes conceptions, il représentera la géométrie ainsi que ses dimensions pour nos future pièces. On pourra dire aussi que l'esquisse est simplement un calque dans lequel on dessine des géométries de bases, vous pouvez rapidement comprendre qu'on pourra avoir autant de calques qu'on voudra, l'un superposé sur l'autre.
 On pourra le comparer aussi aux dessins de définitions dans les plans.
 Pour qu'un technicien ou un ingénieur conçoit une pièce il lui faut un dessin, les formes, les dimensions ainsi que les paramètres de ces formes (relations géométriques).
 
 ## 2. Créer, éditer et valider une esquisse
 
-Passons au choses sérieuses maintenant, pour créer une nouvelle esquisse, au niveau du Bandeau principal, on clique sur l'onglet "Esquisse", puis sur le bouton "Esquisse" ( figure suivante).
+Passons au choses sérieuses maintenant, pour créer une nouvelle esquisse, au niveau du Bandeau principal, on clique sur l'onglet **"Esquisse"**, puis sur le bouton **"Esquisse"** ( figure suivante).
 
 ![](../Attachements/interface_nouvel_esquisse_2D.jpg)
 
@@ -53,23 +53,23 @@ Commençons par l'outil ligne, cliquez sur le point de référence de notre plan
 
 ![](../Attachements/outil_ligne.jpg)
 
-Faites glisser le curseur vers un deuxième point de votre choix, vous aurez une première ligne, vous pourriez continuer la construction de plusieurs lignes et si vous voulez quitter l'outil vous cliquez seulement sur le bouton "ESC" de votre clavier. Il existe un raccourci clavier qui est la touche "l" de votre clavier pour ne pas s'en servir beaucoup avec la souris. 
+Faites glisser le curseur vers un deuxième point de votre choix, vous aurez une première ligne, vous pourriez continuer la construction de plusieurs lignes et si vous voulez quitter l'outil vous cliquez seulement sur le bouton **"ESC"** de votre clavier. Il existe un raccourci clavier qui est la touche **"l"** de votre clavier pour ne pas s'en servir beaucoup avec la souris. 
 
 ![](../Attachements/ligne.jpg)
 
-Remarque : Je vous recommande de toujours commencer la création de votre premier esquisse par le point de référence (figure ci-dessus ).
+Remarque : Je vous recommande de toujours commencer la création de votre premier esquisse pen vous serant du  point de référence (figure ci-dessus ).
 
-Y a une deuxième ligne qu'on appelle ligne de construction, elle ne contribue pas au dessin mais elle nous sert pour paramétrer nos esquisse (créer des contraintes).
+Il existe une deuxième ligne qu'on appelle __ligne de construction_, elle ne contribue pas au dessin mais elle nous sert pour paramétrer nos esquisse (créer des contraintes).
 
 ![](../Attachements/outil_ligne_contruction.jpg)
 
-Suivez seulement les mêmes étapes de création de la ligne.
+Suivez seulement les mêmes étapes qu'une création d'une ligne.
 
 ### b. Outil de cotation intelligentes
 
-Après seulement l'utilisation des deux premiers outils de dessin, il faut que vous introduit la cotation intelligente, car en ingénierie tout a une mesure, les longueurs, les rayons, les distances entres les formes, les positions, l'inclinaison des formes, etc.
-Pour cela il faut cliquer sur le bouton "Cotation intelligente", il suffit ensuite de cliquer sur la forme désirer (l'entité ou la forme), dans notre cas la ligne, est de faire glisser la souris vers un autre endroit du plan.
-Vous pouvez constater lors de cette manipulation, l'orientation de notre cotation change avec e changement de l'orientation de votre souris, vous avez donc trois type de cotation : 
+Après seulement l'utilisation des deux premiers outils de dessin, il faut que je  vous introduit la __cotation intelligente_, car en ingénierie tout a une mesure, les longueurs, les rayons, les distances entres les formes, les positions, l'inclinaison des formes, etc.
+Pour cela il faut cliquer sur le bouton **"Cotation intelligente"**, il vous suffit ensuite de cliquer sur la forme désirer (l'entité ou la forme), dans notre cas une  ligne, est de faire glisser la souris vers un autre endroit du plan.
+Vous pouvez constater lors de cette manipulation, l'orientation de notre cotation change avec le changement de l'orientation de votre souris, vous avez donc trois type de cotation : 
 
 - cotation inclinée; 
 - cotation verticale; 
@@ -77,22 +77,26 @@ Vous pouvez constater lors de cette manipulation, l'orientation de notre cotatio
   Un exemple d'une cotation inclinée sur la figure suivante.
   ![](../Attachements/cotation_inclinee.jpg)
 
-Dans le cas où vous voulez verrouiller le pointeur pour n'avoir qu'une seule direction de cotation, il vous suffit de cliquer sur le bouton droit de votre souris. Voila un exemple dans lequel j'ai verrouiller le pointeur suivant la direction horizontale.
+Dans le cas où vous voulez verrouiller le pointeur pour n'avoir qu'une seule direction de cotation, il vous suffit de cliquer sur le bouton droit de votre souris. Voila un exemple dans lequel j'ai verrouillé le pointeur suivant la direction horizontale.
 
 ![](../Attachements/cotation_horizontale.jpg)
-Continuons, si vous cliquer sur le bouton gauche de votre souris après avoir choisit l'orientation de votre première côte ainsi que sa position (le mieux est le milieu), vous aurez une boite de dialogue qui vous sert à introduire la valeur de votre côte, dans mon cas la valeur est de 80mm.
+Continuons, si vous cliquer sur le bouton gauche de votre souris après avoir choisi l'orientation de votre première côte ainsi que sa position (le mieux est le milieu), vous aurez une boite de dialogue qui vous sert à introduire la valeur de votre côte, dans mon cas la valeur est de 80mm.
 
 ![](../Attachements/cotation_valeur.jpg)
 
-remarque : il est possible de changer la position la position de la côte même après validation de la saisie mais toujours dans l'état édition d'esquisse, il faut seulement le sélectionner.
 
-Vous pouvez constaté que sur la barre d'état de SolidWorks, il est écrit "Sous-contrainte", cela veut dire que notre esquisse n'est pas totalement bien définit, le point de départ de notre ligne est en coïncidence avec le point de référence, on ne peut pas le faire bouger, mais le deuxième point si, il est possible de la faire bouler. 
+
+_Remarque_ : il est possible de changer la position la position de la côte même après validation de la saisie mais toujours dans l'état édition d'esquisse, il faut seulement le sélectionner.
+
+Vous pouvez constaté que sur la barre d'état de SolidWorks, il est écrit **"Sous-contrainte"**, cela veut dire que notre esquisse n'est pas totalement bien définit, le point de départ de notre ligne est en coïncidence avec le point de référence, on ne peut pas le faire bouger, mais le deuxième point si, il est possible de la faire bouger. 
 
 ![](../Attachements/esquisse_sous_contrainte.png)
 
-Remarque : l'esquisse sous-contrainte est toujours en couleur bleu.
 
-Pour le contraindre nous faut soit :
+
+_Remarque_ : l'esquisse sous-contrainte est toujours en couleur bleu.
+
+Pour le contraindre, il nous faut soit :
 
 - rajouter une autre cotation sur une autre direction; 
 - soit définir l'orientation de notre ligne.
@@ -282,7 +286,6 @@ Il existe deux formes de répétitions :
 ![](../Attachements/outil_repetition_lineaire.jpg)
 
 Ensuite nous aurons la boite des propriétés sur la gauche comme la figure ci-dessous.  
-
 
 On précise les axes suivants les deux directions suivantes : 
 
