@@ -70,7 +70,8 @@ Une boite de dialogue s'ouvrira, le fichier de conception a l'extension .sldprt,
 
 ## 5. Ouvrir un fichier de conception
 
-Pour ouvrir un fichier déjà existant, on clique sur le menu "Fichier" puis sur le bouton "Ouvrir", puis choisir un chemin et sélectionner le fichier à ouvrir.
-La différence ici, est que, tous les fichiers peuvent être ouverts (conception, assemblage et mis en plan).
+Pour ouvrir un fichier déjà existant, on clique sur le menu **"Fichier"** puis sur le bouton **"Ouvrir"**, puis choisir un chemin et sélectionner le fichier à ouvrir.
+
+Dans mon cas je vais 
 
 ![](../Attachements/ouvrir_fichier.jpg)

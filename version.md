@@ -1,3 +1,9 @@
 Historique des révision de tout le dossier SolidWorks :
 
-- j'ai terminé la révision des quatre parties de la formation SolidWorks le 02/02 à 10h15;
+- Version 1.0 (Janvier 2023)
+
+- Version 1.1(Mars 2023)
+
+- Version 1.2 (Mai 2023)
+
+- Version 1.3 (Juillet 2023)

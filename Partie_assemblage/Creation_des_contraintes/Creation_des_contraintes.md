@@ -47,7 +47,7 @@ Il existe sur SolidWorks bien d'autres contraintes que les trois que nous venons
 
 Nous allons voir dans cette première partie d'autres contraintes les plus utilisées sur SolidWorks.
 
-##### 1. Coïncidente
+##### 1. Coïncidence
 
 C'est quand on veut nos deux faces se collent l'une contre l'autre.
 

@@ -49,4 +49,34 @@ Il faudra penser à enregistrer nos assemblages en fur et à mesure qu'on avance
 
 ![](../Attachements/enregister_assemblage.jpg)
 
-Les fichiers d'assemblage sous SolidWorks ont l'extension .sldasm.
+Les fichiers d'assemblage sous SolidWorks ont l'extension **".sldasm"**.
+
+#### d. Fonctions de bases sur les assemblages
+
+###### 1- Origine pièce/environnement
+
+L'une des notion les plus importante dans l'importation des pièces pour les assemblages et l'origine de la pièce et l'orgine de l'envoronement SolidWorks, il faut toujours les faire coincider.
+
+Nous avions appris à importer les pièces, mais au moment de l'import il faut s'assurer de la coincidence des origines pièce/environnement, car ça va nous faciliter la tâche dans le future.
+
+Si je reviens à mon exemple, 
+
+###### 2- Menu contextuel
+
+Quand on clique sur le bouton droit de la souris, on aura un menu avec lequel il nous y est possible de faire beaucoup de choses : 
+
+- Fixer / bouger une pièce ; 
+
+###### 3- Assemblage sur place
+
+Il existe un moyen de faire un assemblage sur place, cela veut dire qu'on peut se servir des fonctionnalités de conception dans un projet d'assemblage dans SolidWorks pour créer une pièce qui ne sera pas référencer de l'extérieur de projet comme on vient de le faire en haut.
+
+Ces pièces ne seront visible que dans le projet d'assemblage.
+
+###### 4- Créer un sous-assemblage
+
+Il est possible de créer autant de sous-assemblages qu'on veut sur SolidWorks, 
+
+###### 5- Enregistrer les composants dans des fichiers externes
+
+Il existe un moyen qui nous permettra comme même de sauver les composants qu'on peut créer dans un projet d'assemblage dans des fichiers externes.
