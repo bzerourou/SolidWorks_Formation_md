@@ -39,7 +39,7 @@ Cela nous ouvrira sur une nouvelle interface, c'est vrai que y a certains bouton
 1. Le bandeau principal des focntionnalités de base de SolidWorks le plus souvent utilisé.
 2. L'Arbre de conception.
 3. Diverses icônes : Vue en coupe, Zoom, Apparence, Vues, ...
-4. L'espace principal du travail.
+4. L'espace/environnement  principal du travail.
 
 ### 3. Préférences
 
@@ -53,9 +53,7 @@ En cliquant sur le bouton Personnaliser vous aurez cette fenêtre, il vous suffi
 
 ![](../Attachements/interface_personnaliser_vues.jpg)
 
-Comme vous pouvez le constater il existe différentes vues pour lesquelles suivant la vue qu'il vous semble pratique de réaliser les fonctions de conception. Dans mon cas j'ai choisi Num5 pour la vue de face et Ctrl + Num5 pour la vue de derrière.
-
- version 1.4
+Comme vous pouvez le constater il existe différentes vues pour lesquelles suivant la vue qu'il vous semble pratique de réaliser les fonctions de conception. Dans mon cas j'ai choisi _Num5_ pour la vue de face et _Ctrl + Num5_ pour la vue de derrière.
 
 ## 4. Enregistrement des fichiers
 
@@ -72,6 +70,20 @@ Une boite de dialogue s'ouvrira, le fichier de conception a l'extension .sldprt,
 
 Pour ouvrir un fichier déjà existant, on clique sur le menu **"Fichier"** puis sur le bouton **"Ouvrir"**, puis choisir un chemin et sélectionner le fichier à ouvrir.
 
-Dans mon cas je vais 
+Dans mon cas je vais uiliser le chemin du répertoire **projet** que vous voir sur ce lien, d'ailleurs il contien tous les ressources SolidWorks [projet](..\..\projet).
 
 ![](../Attachements/ouvrir_fichier.jpg)
+
+
+
+**Note** : il y a deux options pour ouvrir les fichiers, la première est de les ouvrirs en lecture seule pour cela il faudra seulement cliquer les le petit triangle sur bouton **Ouvrir**.
+
+![](..\Attachements\interface_lecture_seule.jpg)
+
+Dans ce cas vous ne pourriez pas faire des modifications sur vos fichiers ouverts.
+
+La deuxième option est de les Ouvrirs avec la possiblité de modifications, il faut seimplement choisir **Ouvrir**.
+
+ 
+
+$$version 1.4$$

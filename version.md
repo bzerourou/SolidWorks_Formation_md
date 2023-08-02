@@ -6,4 +6,6 @@ Historique des révision de tout le dossier SolidWorks :
 
 - Version 1.2 (Mai 2023)
 
-- Version 1.3 (Juillet 2023)
+- Version 1.3 (Juillet 2023) : sur les TPs
+
+- Version 1.4(Aout 2023) : 
