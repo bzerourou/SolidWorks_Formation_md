@@ -75,8 +75,14 @@ Y aura des ateliers sur des interventions pour des modifications de ficheirs de 
   - [x] Création d'une première mise en plan 
 
 - [ ] TPs
+  
+  
 
-- [ ] Ateliers 
+### Ressources
+
+Vous trouvez tous les fichiers que j'ai utilisé dans cette formation dans le répertoire **[projet](projet)**. 
+
+
 
 ### Liste des version
 
