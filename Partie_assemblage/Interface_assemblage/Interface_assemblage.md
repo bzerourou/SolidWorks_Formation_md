@@ -10,7 +10,7 @@ Cette première section est une brève introduction au projet d'assemblage sur S
 
 Pour créer un nouvel assemblage sur SolidWorks rien de plus simple, sur la page de démarrage, on clique sur le menu Fichier, puis sur le bouton nouveau.
 
-![](..\Attachements\outil_nouveau.jpg)
+![image1](..\Attachements\outil_nouveau.jpg)
 
 ça va nous faire sortir la première boite de dialogue que nous avions déjà comment l'utilisé, cette fois-ci on clique sur le bouton assembalge.
 
