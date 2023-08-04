@@ -10,15 +10,15 @@ Cette première section est une brève introduction au projet d'assemblage sur S
 
 Pour créer un nouvel assemblage sur SolidWorks rien de plus simple, sur la page de démarrage, on clique sur le menu Fichier, puis sur le bouton nouveau.
 
-![](../Attachements/outil_nouveau.jpg)
+![](..\Attachements\outil_nouveau.jpg)
 
 ça va nous faire sortir la première boite de dialogue que nous avions déjà comment l'utilisé, cette fois-ci on clique sur le bouton assembalge.
 
-![](../Attachements/nouveau_assemblage.jpg)
+![](..\Attachements\nouveau_assemblage.jpg)
 
 et Vous aurez cette nouvelle interface dédiée à l'assemblage, elle est la même que celle de la partie conception, mais elle importe cette fois-ci les outils nécessaires pour les assemblages que nous réaliserons plus tard.
 
-![](../Attachements/assemblage_interface.jpg)
+![](..\Attachements\assemblage_interface.jpg)
 
 1. Le bandeau des outils principaux; 
 2. L'arbre des pièces qui seront importées, ainsi que les contraintes d'assemblages;
@@ -47,13 +47,9 @@ Dans le cas où  vous cliquez sur le **bouton z**, la pièce va so'rienter horiz
 
 ![](..\Attachements\assemblage_vis_import_z.jpg)
 
-
-
 Il y a aussi une possibilité de changer l'orientation du plan de l'espace de travail en cliquant sur l'une des flèches su système de coordonnées principales de SolidWorks, comme la figure suivante, dans mon cas j'ai cliqué sur la **flèche x**.
 
 ![](..\Attachements\assemblage_vis_import_z_fx.jpg)
-
-
 
 Pour savoir si votre pièce est fixée un signe (f) va précéder le nom de la pièce comme dans la figure suivante.
 
@@ -90,8 +86,6 @@ Le résultat sera que les deux origines vont apparaitre dans votre projet d'asse
 Il ne vou reste que de faire pivoter votre pièce vers l'origine SolidWorks et de valider en liquant sur le bouton droit de la souris pour créer certe première contrainte.
 
 ![](..\Attachements\assemblage_contrainte_origines.jpg) 
-
-
 
 ###### 2- Menu contextuel
 
