@@ -49,7 +49,7 @@ Tout d'abord nous allons nous intéresser seulement à la partie Personnalisatio
 
 ![](../Attachements/interface_personnaliser.jpg)
 
-En cliquant sur le bouton Personnaliser vous aurez cette fenêtre, il vous suffit seulement de choisir un racourcis clavier pour chaque vue, comme je l'avais défini moi.
+En cliquant sur le bouton **Personnaliser** vous aurez cette fenêtre, il vous suffit seulement de choisir un racourcis clavier pour chaque vue, comme je l'avais défini moi.
 
 ![](../Attachements/interface_personnaliser_vues.jpg)
 
@@ -74,8 +74,6 @@ Dans mon cas je vais uiliser le chemin du répertoire **projet** que vous voir s
 
 ![](../Attachements/ouvrir_fichier.jpg)
 
-
-
 **Note** : il y a deux options pour ouvrir les fichiers, la première est de les ouvrirs en lecture seule pour cela il faudra seulement cliquer les le petit triangle sur bouton **Ouvrir**.
 
 ![](..\Attachements\interface_lecture_seule.jpg)
@@ -83,7 +81,5 @@ Dans mon cas je vais uiliser le chemin du répertoire **projet** que vous voir s
 Dans ce cas vous ne pourriez pas faire des modifications sur vos fichiers ouverts.
 
 La deuxième option est de les Ouvrirs avec la possiblité de modifications, il faut seimplement choisir **Ouvrir**.
-
- 
 
 $$version 1.4$$

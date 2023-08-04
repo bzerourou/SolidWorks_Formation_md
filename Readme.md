@@ -30,8 +30,6 @@ Pour les TPs il sont d'un niveau un plus difficile.
 
 Y aura des ateliers sur des interventions pour des modifications de ficheirs de codneptions, assemblages et des mises en plan pour initier l'utilisateur au travail réel qui est améné à faire dans les entreprises.
 
-  
-
 # Avancement des tâches
 
 - [ ] Partie Conception
@@ -75,14 +73,10 @@ Y aura des ateliers sur des interventions pour des modifications de ficheirs de 
   - [x] Création d'une première mise en plan 
 
 - [ ] TPs
-  
-  
 
 ### Ressources
 
 Vous trouvez tous les fichiers que j'ai utilisé dans cette formation dans le répertoire **[projet](projet)**. 
-
-
 
 ### Liste des version
 
