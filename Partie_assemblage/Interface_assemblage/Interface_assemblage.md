@@ -97,7 +97,45 @@ Quand on clique sur le bouton droit de la souris, on aura un menu avec lequel il
 
 Il existe un moyen de faire un assemblage sur place, cela veut dire qu'on peut se servir des fonctionnalités de conception dans un projet d'assemblage dans SolidWorks pour créer une pièce qui ne sera pas référencer de l'extérieur de projet comme on vient de le faire en haut.
 
-Ces pièces ne seront visible que dans le projet d'assemblage.
+Ces pièces ne seront visible que dans le projet d'assemblage. Pour cela on va utiliser la pièce "nouvelle_piece_3.sldprt", comme la figure suivante.
+
+![](../Attachements/nouvelle_piece_3.jpg)
+
+On va créer tout d'abord un projet d'assemblage, puis on va importer notre pièce, puis en cliquant sur le bouton __Insérer des composants__, puis sur __Nouvelle pièce__.
+
+![](../Attachements/nouvelle_piece_3_n.jpg)
+
+Vous allez vous rendre compte que SolidWorks avait crée une nouvelle piece sur l'arborescence, le circonflexe dans le nom de la pièce veut dire qu'il dépend du projet d'assemblage.
+
+![](../Attachements/arbo_nouvelle_piece_3.jpg)
+
+Pour continuer notre assemblage, on utilise les fonctions de conception, précisement *Convertir les entités*, pour cela on clique tout d'abord sur la partie dans laquelle on veut créer une nouvelle pièce, comme sur la figure suivante.
+
+![](../Attachements/asseb_nouvelle_piece_3_selec.jpg)
+
+Maintenant on séléctionne le contour du haut de notre pièce, et on appuis sur la fonction *Convertir les entités*.
+
+![](../Attachements/asseb_nouvelle_piece_3_cont.jpg)
+
+
+
+On passe maintenant la fonction *Bossage*, j'ai choisis 5 mm pour l'épaisseur, après il vous suffit seulement de valider.
+
+![](../Attachements/asseb_nouvelle_piece_3_cont_bossage.jpg)
+
+
+
+SolidWorks va  vous créer une contrainte automatiquement, un clic avec le bouton droit de votre souris puis sur __Editer la fonction__, SolidWorks va vous faire apparaitre un message d'avertissement, vous validez, vous aurez ensuite l'éditeur de propriété de la fonction, vous choisissez la contrainte coincidence, puis vous validez.
+
+![](../Attachements/asseb_nouvelle_piece_3_coincidence.jpg)
+
+
+
+Vous pouvez dès à présent supprimer cette contrainte après avoir valider l'avertissement de SolidWorks.
+
+Maintenant vous pouvez faire bouger le couvercle de notre pièce.
+
+![](../Attachements/asseb_nouvelle_piece_3_couvercle.jpg)
 
 ###### 4- Créer un sous-assemblage
 
