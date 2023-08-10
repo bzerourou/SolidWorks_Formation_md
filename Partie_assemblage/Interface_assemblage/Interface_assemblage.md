@@ -151,11 +151,13 @@ Je continue avec __l'enlèvement de la matière__, puis j'enregistre mon travail
 
 
 
+__Note__ : Dans le cas où il vous ai impossible de faire ce que je viens de faire, il vous suffit de vous rendre dans le menu _Option_, puis dans l'onglet _Assemblage_ et de cocher l'option _Enregistrer les nouveaux composants dans des fichiers externes_
 
+![](../Attachements/assemb_option_enreg.JPG)
 
 ###### 5- Créer un sous-assemblage
 
-Il est possible de créer autant de sous-assemblages qu'on veut sur SolidWorks, je vais continuer d'apporter des modifications sur notre assemblage, jusqu'à avoir un assemblage avec des vis.
+Il est possible de créer autant de sous-assemblages qu'on veut sur SolidWorks, je vais 
 
 ![](../Attachements/asseb_nouvelle_piece_3_vis.jpg)
 
