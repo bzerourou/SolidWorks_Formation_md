@@ -117,19 +117,13 @@ Maintenant on séléctionne le contour du haut de notre pièce, et on appuis sur
 
 ![](../Attachements/asseb_nouvelle_piece_3_cont.jpg)
 
-
-
 On passe maintenant la fonction *Bossage*, j'ai choisis 5 mm pour l'épaisseur, après il vous suffit seulement de valider.
 
 ![](../Attachements/asseb_nouvelle_piece_3_cont_bossage.jpg)
 
-
-
 SolidWorks va  vous créer une contrainte automatiquement, un clic avec le bouton droit de votre souris puis sur __Editer la fonction__, SolidWorks va vous faire apparaitre un message d'avertissement, vous validez, vous aurez ensuite l'éditeur de propriété de la fonction, vous choisissez la contrainte coincidence, puis vous validez.
 
 ![](../Attachements/asseb_nouvelle_piece_3_coincidence.jpg)
-
-
 
 Vous pouvez dès à présent supprimer cette contrainte après avoir valider l'avertissement de SolidWorks.
 
@@ -137,9 +131,47 @@ Maintenant vous pouvez faire bouger le couvercle de notre pièce.
 
 ![](../Attachements/asseb_nouvelle_piece_3_couvercle.jpg)
 
-###### 4- Créer un sous-assemblage
 
-Il est possible de créer autant de sous-assemblages qu'on veut sur SolidWorks, 
+
+###### 4- Ouvrir une pièce dans un assemblage
+
+Il est possible d'ouvrir une pièce même dans le cas d'un assemblage sur place sous SildWorks en mode édition (partie conception ) pour lui apprter des modifications.
+
+Il vous suffit seulement de cliquer avec le bouton droit de votre souris sur la pièce dans l'arborescence puis de cliquer sur la fonction __Ouvrir la piece__.
+
+![](../Attachements/asseb_nouvelle_piece_3_couv_edition.jpg)
+
+SolidWorks va vous ouvrir la pièce en mode édition, pour utiliser toutes les fonctionnalités de conception. Je vais apporter quelques modifications,
+
+![](../Attachements/asseb_nouvelle_piece_3_couv_conception.jpg)
+
+Je continue avec __l'enlèvement de la matière__, puis j'enregistre mon travail quand je ferme la pièce,
+
+![](../Attachements/asseb_nouvelle_piece_3_troues.jpg)
+
+
+
+
+
+###### 5- Créer un sous-assemblage
+
+Il est possible de créer autant de sous-assemblages qu'on veut sur SolidWorks, je vais continuer d'apporter des modifications sur notre assemblage, jusqu'à avoir un assemblage avec des vis.
+
+![](../Attachements/asseb_nouvelle_piece_3_vis.jpg)
+
+Pour pouvoir créer un sous-assemblage sous SolidWorks, soit vous cliquez sur __Nouvel assemblage__, de l'onglet *Assemblage*, 
+
+![](../Attachements/asseb_nouvelle_piece_3_n_sous_assemb.jpg)
+
+Maintenant vous aurez dans l'arborescence de création un nouvel assemblage, vous sélectionnez les quatres vis en vous servant du bouton __ctrl__ de votre clavier , puis vous les faites glisser avec en maintenant le clic droit de votre souris dans cet nouvel assemblage.
+
+![](../Attachements/asseb_nouvelle_piece_3_glisser.jpg)
+
+Maintenant quand vous cliquez sur le nouvel assemblage de l'arborescence SolidWorks vous met les quatres vis en couleur bleu.
+
+
+
+![](../Attachements/asseb_nouvelle_piece_3_sous_assemb.JPG)
 
 ###### 5- Enregistrer les composants dans des fichiers externes
 
