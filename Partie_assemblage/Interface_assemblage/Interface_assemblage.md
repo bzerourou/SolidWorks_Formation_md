@@ -131,8 +131,6 @@ Maintenant vous pouvez faire bouger le couvercle de notre pièce.
 
 ![](../Attachements/asseb_nouvelle_piece_3_couvercle.jpg)
 
-
-
 ###### 4- Ouvrir une pièce dans un assemblage
 
 Il est possible d'ouvrir une pièce même dans le cas d'un assemblage sur place sous SildWorks en mode édition (partie conception ) pour lui apprter des modifications.
@@ -148,12 +146,6 @@ SolidWorks va vous ouvrir la pièce en mode édition, pour utiliser toutes les f
 Je continue avec __l'enlèvement de la matière__, puis j'enregistre mon travail quand je ferme la pièce,
 
 ![](../Attachements/asseb_nouvelle_piece_3_troues.jpg)
-
-
-
-__Note__ : Dans le cas où il vous ai impossible de faire ce que je viens de faire, il vous suffit de vous rendre dans le menu _Option_, puis dans l'onglet _Assemblage_ et de cocher l'option _Enregistrer les nouveaux composants dans des fichiers externes_
-
-![](../Attachements/assemb_option_enreg.JPG)
 
 ###### 5- Créer un sous-assemblage
 
@@ -171,9 +163,11 @@ Maintenant vous aurez dans l'arborescence de création un nouvel assemblage, vou
 
 Maintenant quand vous cliquez sur le nouvel assemblage de l'arborescence SolidWorks vous met les quatres vis en couleur bleu.
 
-
-
 ![](../Attachements/asseb_nouvelle_piece_3_sous_assemb.JPG)
+
+**Note** : Dans le cas où il vous ai impossible de faire ce que je viens de faire, il vous suffit de vous rendre dans le menu *Option*, puis dans l'onglet *Assemblage* et de cocher l'option *Enregistrer les nouveaux composants dans des fichiers externes*
+
+![](../Attachements/assemb_option_enreg.JPG)
 
 ###### 5- Enregistrer les composants dans des fichiers externes
 
