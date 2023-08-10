@@ -9,13 +9,15 @@ Dans cette deuxième section on va commencer à assembler des petits systèmes e
 
 Une contrainte nous sert à lier deux pièces. nous l'avions déjà vu sur la partie création d'esquisse. Cependant, pour les assemblages, leur nombre est plus important.
 
-Reprenons notre exemple de vis-écrou, après importation bien sur, pour contraindre ces deux pièces, cliquer sur le bouton de la fonction "Contrainte".
+Reprenons notre exemple de vis-écrou, après importation bien sur, pour contraindre ces deux pièces, cliquer sur le bouton de la fonction __Contrainte__.
+
+![](../Attachements/fonction_assem.JPG)
 
 Maintenant il faut sélectionner le cylindre intérieur de l'écrou comme la figure.
 
 ![](../Attachements/contrainte_cylindre_int_ecrou.jpg)
 
-Après il faudra encore sélectionner cette fois-ci la partie extérieure de notre vis, vous allez voir que SolidWorks a automatiquement détecter la contrainte de type coaxiale entre les deux parties des de nos deux pièces, comme la figure suivante.
+Après il faudra encore sélectionner cette fois-ci la partie extérieure de notre vis, vous allez voir que SolidWorks a automatiquement détecter la contrainte de type *coaxiale* entre les deux parties des de nos deux pièces, comme la figure suivante.
 
 ![](../Attachements/contrainte_vis_ecrou.jpg)
 
@@ -26,7 +28,7 @@ Il ne vous reste que de valider la fonction. La contrainte est visible sur l'arb
 Vous puvez constaté que mon écrou est libre en rotation et en translation suivant la hauteur de la vis (axe y), mais vous ne pouvez pas le faire bouger.
 
 On va rajouter une deuxième contrainte, cette fois-ci de distance pour que mon écrou ne bouge plus suivant l'axe y.
-Je recommence les opérations précédentes, je sélectionne la face basse de la tête de ma vis et la face haute de mon écrou, SolidWorks me proposera une contrainte de coïncidence, mais on va cliquer sur le bouton de la contrainte distance entourée en rouge et on valide (figure suivante).
+Je recommence les opérations précédentes, je sélectionne la face basse de la tête de ma vis et la face haute de mon écrou, SolidWorks me proposera une contrainte de *coïncidence*, mais on va cliquer sur le bouton de la contrainte *distance* entourée en rouge et on valide (figure suivante).
 
 ![](../Attachements/contrainte_hauteur.jpg)
 
@@ -41,7 +43,7 @@ $$version 1.2$$
 
 #### 2. Liste des contraintes utilisées
 
-Il existe sur SolidWorks bien d'autres contraintes que les trois que nous venons de voir. Nous pourrions les regrouper sous trois grandes catégories : 
+Bien que nous avions utiliser les contraintes (coaxiale, distance, parallèle), Il existe sur SolidWorks bien d'autres contraintes que les trois que nous venons de voir. Nous pourrions les regrouper sous trois grandes catégories : 
 
 #### a. Contraintes standard
 
@@ -49,21 +51,55 @@ Nous allons voir dans cette première partie d'autres contraintes les plus utili
 
 ##### 1. Coïncidence
 
-C'est quand on veut nos deux faces se collent l'une contre l'autre.
+C'est quand on veut  coller deux points, deux segemnts ou deux surfaces,  l'une contre l'autre. C'est la première contrainte peut-être la plus utilisée, Après avoir importer mes deux pièces dans mon projet d'assemblage que vous pouvez trouvez dans le repertoire Projet\tutoriels_CAD-CAM-FEA-didacticiel\assemblages\contraintes.
 
-##### 2. Perpendiculaire
+![](../Attachements/cont_coinc_assem7.JPG)
 
-Les deux faces seront perpendiculaires.
+Sélectionner en maintenant la touche ctrl de votre clavier les deux surfaces planes de la partie haute de notre joints qu'on veut contraindre, puis cliquer selon votre choix sur la fonction __Contrainte__ et choisir la contrainte _Coincidence_.
 
-##### 3. Tangente
+![](../Attachements/cont_coinc_face_assem7.JPG)
 
-On l'utilise souvent avec entre les faces cylindriques et un plan, une face. 
+La validation de votre contrainte vous permet autant de fois que vous le vouliez appliquer des contraintes, la fonction reste toujours active, passons maintenant à la même manipulation cette fois-ci des deux faces de la partie basse, 
 
-##### 4. Bloquante
+![](../Attachements/cont_coinc_face2_assem7.JPG)
+
+__Note__ : La pièce n'est pas totalment contrainte car elle peut encore bouger suivant l'axe z.
+
+Il est important que vous fixer vous même la façon de contraindre vos pièces, j'ai pu faire autrement, de sélectionner une seule face, 
+
+![](../Attachements/cont_coinc_face3_assem7.JPG) 
+
+##### 2. Coaxiale
+
+Reprenons notre exemple d'assemblage précédent, dans le cas où je vais rajouter une contrainte de coaxialité, 
+
+![](../Attachements/cont_coax_face3_assem7.JPG)
+
+##### 3. Perpendiculaire
+
+C'est contraintes qui est très peu utilisée, mais il faudra l'introduire pour comprendre son utilité, elle est appliqué e sur deux segments ou faces qui sont perpendiculaires, il faudra penser à faire une ligne de contruction pour chaque pièce.
+
+![](../Attachements/cont_perp1_assem7.JPG)
+
+##### 4. Tangente
+
+Avec le même exemple, on l'utilise souvent entre une face cylindrique et une face  plane, parmi les exemple on pourra créer une contrainte entre un joints et une face d'une pièce d'une pompe, 
+
+![](../Attachements/cont_tang1_assem7.JPG) 
+
+##### 5. Bloquante
 
 Les deux entités sélectionnés seront bloqués entre eux, mais leurs mouvements seront liés, si on fait bouger une l'autre bouge aussi.
 
-##### 5. Angle
+##### 6. Distance
+
+Nous avions vu en haut cette contrainte, on va la refaire pour créer une contrainte entre une goupille et le palier d'une pompe, la contrainte distance me servira à mettre à mi-distance la goupille avec le cercle du persage de mon palier. 
+
+
+
+![](../Attachements/cont_dist1_assem7.JPG)
+
+##### 7. Angle
 
 Cette contrainte permet de spécifier un angle entre deux entités sélectionnées.
 
